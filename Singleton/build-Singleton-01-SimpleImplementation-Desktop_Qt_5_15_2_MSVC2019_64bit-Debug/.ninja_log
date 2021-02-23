@@ -1,0 +1,7 @@
+# ninja log v5
+2	55	6357455967528431	Singleton-01-SimpleImplementation_autogen/timestamp	e7e4d763345beb19
+55	117	6357455968057019	Singleton-01-SimpleImplementation_autogen/EWIEGA46WW/qrc_qml.cpp	91f00c6252be2a94
+120	184	6357455968655422	CMakeFiles/Singleton-01-SimpleImplementation.dir/61fc4d7f61af9b501555734e98fb1c7c/mocs_compilation.cpp.obj	9e36e778dd8f452b
+117	199	6357455968765126	CMakeFiles/Singleton-01-SimpleImplementation.dir/61fc4d7f61af9b501555734e98fb1c7c/EWIEGA46WW/qrc_qml.cpp.obj	54776b78967bea5f
+119	1993	6357455986647290	CMakeFiles/Singleton-01-SimpleImplementation.dir/main.cpp.obj	e266d42272759d9f
+1995	2141	6357455988133317	Singleton-01-SimpleImplementation.exe	2a7946f7cfcb5e83
